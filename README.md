@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacqueline Kwofie
-- 👀 I’m interested in DevOps and Data Analytic 
+- 👀 I’m interested in DevOps and Data Analytics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jacquelinekwofie2@gmail.com.
 - 😄 Pronouns: She
